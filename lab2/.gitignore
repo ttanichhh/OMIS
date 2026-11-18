@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+events.sqlite3
+events.sqlite3-*
+events.log
+.DS_Store

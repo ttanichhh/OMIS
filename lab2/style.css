@@ -120,3 +120,5 @@ dd { margin: .2rem 0 0; font-weight: 700; overflow-wrap: anywhere; }
   .top strong { width: 100%; }
   .create, .detail-body { padding: 1.15rem; }
 }
+
+.attendees { display: flex; align-items: center; gap: .4rem; margin-top: 1.2rem; font-size: .85rem; }
